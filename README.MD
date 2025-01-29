@@ -30,7 +30,7 @@ Gamma：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | FAs imagens fossem geradas de acordo com teor de cada slide do e-book. |
+| título | As imagens fossem geradas de acordo com teor de cada slide do e-book. |
 
 ## ✨ Features
 
