@@ -20,9 +20,11 @@ seguem abaixo.
 
 Copilot：
 
-||  Ação  | prompt                                                                                |
-| :----: | -------------------------------------------------------------------------------------- |
-| título e conteúdo|  Me escreva em formato de e-book explicando o que é a Inteligência Artificial Generativa em um estilo informal e descontraído, explique como se fosse para crianças de 6 a 10 anos.. |
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Crie um título de um ebook para crianças explicando sobre o tema Inteligência Artificial, o título deve ser lúdico e curto.                                                  |
+| conteúdo | Me escreva em formato de e-book explicando o que é a Inteligência Artificial Generativa em um estilo informal e descontraído, explique como se fosse para crianças de 6 a 10 anos|
+
 
                                                      |
 Gamma：
