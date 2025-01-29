@@ -22,7 +22,7 @@ Copilot：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook para crianças explicando sobre o tema Inteligência Artificial, o título deve ser lúdico e curto.                                                  |
+|  título  | Crie um título de um e-book para crianças explicando sobre o tema Inteligência Artificial, o título deve ser lúdico e curto.                                                  |
 | conteúdo | Me escreva em formato de e-book explicando o que é a Inteligência Artificial Generativa em um estilo informal e descontraído, explique como se fosse para crianças de 6 a 10 anos|
 
 
@@ -30,7 +30,7 @@ Gamma：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Foi solicitado que as imagens fossem geradas levando em conta o teor de cada slide do e-book. |
+| título | FAs imagens fossem geradas de acordo com teor de cada slide do e-book. |
 
 ## ✨ Features
 
