@@ -42,5 +42,6 @@ Gamma：
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
+
 ⌨️ com 💜 por [Andrea Giulianni]
 
