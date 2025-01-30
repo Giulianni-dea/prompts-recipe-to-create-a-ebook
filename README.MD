@@ -11,9 +11,9 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
--IA Generativa Copilot para roteirização; 
--IA Generativa Gamma para criar a arte visual do e-book; 
--Ferramenta Word para edição.
+- Copilot para roteirização; 
+- Gamma para criar a arte visual do e-book; 
+- Ferramenta Word para edição.
 
 ## 🧠 Prompts
 
